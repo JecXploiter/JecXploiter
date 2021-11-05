@@ -17,7 +17,7 @@
   echo $mylife;
 ?>
 ```
-
+<img src="img/h3.jpg" align="center" width="100%">
 <h1 align="center"> Keep supporting me ✨</h1>
 Here are some ideas to get you started:
 
