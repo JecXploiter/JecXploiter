@@ -17,10 +17,6 @@
   echo $mylife;
 ?>
 ```
-
-<h1 align="center"> Keep supporting me ✨</h1>
-
-> Follow Me On :
 ### Let's connect!
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281246835129)
