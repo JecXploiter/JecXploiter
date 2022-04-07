@@ -1,5 +1,5 @@
 
-<div style="display:flex;align-items:center"><h1 align="center">Hello Everyone! I'm JecXploiter <img src='img/check.svg' alt='Verified Account' height='30'></h1></div>
+<div style="display:flex;align-items:center"><h1 align="center">Hello Everyone! I'm JecXploiter </h1><img src='img/check.svg' alt='Verified Account' height='30'></div>
 
 > Hi everyone! I am a person who is interested in the world of technology, programmer, graphic design, editing and assisting in developing web-based applications. I have more than 3 years experience in this field, especially in IT. Therefore i can implement effective IT strategies at local, global and international levels.
 
