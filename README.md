@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello Everyone! I'm Raden JecXploiter <img src='img/verified.png' alt='Verified Account' height='30'></h1>
+<h1 align="center">Hello Everyone! I'm JecXploiter <img src='img/verified.png' alt='Verified Account' height='30'></h1>
 
-> I am a Newbie in the internet world, but I believe that I can be the best person and better than all the best. Towards infinity and beyond! and  Keep using Your Brain, Ok!!
+> Hi everyone! I am a person who is interested in the world of technology, programmer, graphic design, editing and assisting in developing web-based applications. I have more than 3 years experience in this field, especially in IT. Therefore i can implement effective IT strategies at local, global and international levels.
 
 ```python
 <?php
