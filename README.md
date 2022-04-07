@@ -23,6 +23,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-%20-brightgreen?style=social&logo=whatsapp)](https://wa.me/6285846695167)
 [![Gmail](https://img.shields.io/badge/Gmail-%20-brightgreen?style=social&logo=gmail)](mailto:jecxploiter@gmail.com?subject=github_message)
-[![Tweeter](https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo=tweeter)](https://tweeter.com/JXploiter)
+[![Tweeter](https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo=tweet)](https://tweeter.com/JXploiter)
 [![Instagram](https://img.shields.io/badge/Instagram-655-brightgreen?style=social&logo=instagram)](https://www.instagram.com/JecXploiter)
 [![Facebook](https://img.shields.io/badge/Facebook-642-brightgreen?style=social&logo=facebook)](https://web.facebook.com/JXploiter)
