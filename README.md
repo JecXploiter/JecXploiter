@@ -21,9 +21,8 @@
 ```
 ### Let's connect!
 
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-%20-brightgreen?style=social&logo=whatsapp)](https://wa.me/6281246835129)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-%20-brightgreen?style=social&logo=whatsapp)](https://wa.me/6285846695167)
 [![Gmail](https://img.shields.io/badge/Gmail-%20-brightgreen?style=social&logo=gmail)](mailto:jecxploiter@gmail.com?subject=github_message)
-[![Instagram](https://img.shields.io/badge/Instagram-655-brightgreen?style=social&logo=instagram)](https://www.linkedin.com/in/adhiariyadi)
-[![Facebook](https://img.shields.io/badge/Facebook-642-brightgreen?style=social&logo=facebook)](https://web.facebook.com/adhiariyadi.me)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adhiariyadi_)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhiariyadi?tab=follow)
+[![Tweeter](https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo=tweeter)](https://tweeter.com/JXploiter)
+[![Instagram](https://img.shields.io/badge/Instagram-655-brightgreen?style=social&logo=instagram)](https://www.instagram.com/JecXploiter)
+[![Facebook](https://img.shields.io/badge/Facebook-642-brightgreen?style=social&logo=facebook)](https://web.facebook.com/JXploiter)
