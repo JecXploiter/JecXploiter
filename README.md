@@ -1,5 +1,7 @@
 
-<h1 align="center">Hello Everyone! I'm JecXploiter <img src='img/check.svg' alt='Verified Account' height='29'></h1>
+<h1 align="center">Welcome to JecXploiter profile page</h1>
+
+### I'am JecXploiter
 
 > Hi everyone! I am a person who is interested in the world of technology, programmer, graphic design, editing and assisting in developing web-based applications. I have more than 3 years experience in this field, especially in IT. Therefore i can implement effective IT strategies at local, global and international levels.
 
