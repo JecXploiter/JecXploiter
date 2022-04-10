@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to JecXploiter profile page</h1>
 
 <p align="center">
-  <a href="https://tweeter.com/JXploiter"><img src="https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo="></a>
+  <a href="https://twitter.com/JXploiter"><img src="https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo=twitter"></a>
   <a href="https://www.instagram.com/JecXploiter"><img src="https://img.shields.io/badge/Instagram-655-brightgreen?style=social&logo=instagram"></a>
   <a href="https://web.facebook.com/JXploiter"><img src="https://img.shields.io/badge/Facebook-642-brightgreen?style=social&logo=facebook"></a>
 </p>
@@ -27,8 +27,5 @@
 ```
 ### Let's connect!
 
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-%20-brightgreen?style=social&logo=whatsapp)](https://wa.me/6285846695167)
-[![Gmail](https://img.shields.io/badge/Gmail-%20-brightgreen?style=social&logo=gmail)](mailto:jecxploiter@gmail.com?subject=github_message)
-[![Tweeter](https://img.shields.io/badge/Tweeter-%20-brightgreen?style=social&logo=tweet)](https://tweeter.com/JXploiter)
-[![Instagram](https://img.shields.io/badge/Instagram-655-brightgreen?style=social&logo=instagram)](https://www.instagram.com/JecXploiter)
-[![Facebook](https://img.shields.io/badge/Facebook-642-brightgreen?style=social&logo=facebook)](https://web.facebook.com/JXploiter)
+- Email : <a href="mailto:jecxploiter@gmail.com?subject=Github_Message">jecxploiter@gmail.com</a>
+- Whatsapp : <a href="https://wa.me/6285846695167">+62 858-4669-5167</a>
